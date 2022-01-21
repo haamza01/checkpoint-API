@@ -1,0 +1,17 @@
+.App {
+    font-family: "Gill Sans", sans-serif;
+    text-align: center;
+    background-color: black;
+}
+
+#Card {
+    width: 18rem;
+    background-color: gold;
+    color: white;
+    width: 22rem;
+    margin: auto;
+    padding: 16px;
+    margin-top: 20px;
+    border-radius: 15px;
+    text-align: justify;
+}
